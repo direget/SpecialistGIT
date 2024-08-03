@@ -2,3 +2,5 @@ int {
 	context
     }
 ask
+if x for range:
+	i+=1
